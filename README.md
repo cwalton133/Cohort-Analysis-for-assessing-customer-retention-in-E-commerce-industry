@@ -8,9 +8,10 @@ End‑to‑end data analytics project demonstrating real‑world business intell
 ---
 
 ## Badges
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/yourrepo)
-![License](https://img.shields.io/github/license/yourusername/yourrepo)
-![Top Language](https://img.shields.io/github/languages/top/yourusername/yourrepo)
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge)
+
 
 ---
 
