@@ -177,6 +177,6 @@ This project demonstrates how cohort analysis can transform raw transactional da
 
 ## Author
 **Charles Akintola Walton**  
-Data Analyst | Python Developer  
-Email: your@email.com  
-LinkedIn: https://linkedin.com/in/yourprofile
+Data Analyst Consulatnt | Python Developer  
+Email: cwalton1335@gmail.com 
+LinkedIn: https://linkedin.com/in/cwalton1335
