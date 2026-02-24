@@ -88,19 +88,20 @@ Key preprocessing steps:
 [View Dashboard Images](dashboard/)
 
 Sample Visuals:
-- [pics_1.png](dashboard/pics_1.png)
-- [pics_2.png](dashboard/pics_2.png)
-- [pics_3.png](dashboard/pics_3.png)
-- [pics_4.png](dashboard/pics_4.png)
-- [pics_5.png](dashboard/pics_5.png)
-- [pics_6.png](dashboard/pics_6.png)
-- [pics_7.png](dashboard/pics_7.png)
-- [pics_8.png](dashboard/pics_8.png)
-- [pics_9.png](dashboard/pics_9.png)
-- [pics_10.png](dashboard/pics_10.png)
-- [pics_11.png](dashboard/pics_11.png)
-- [pics_12.png](dashboard/pics_12.png)
-- [pics_13.png](dashboard/pics_13.png)
+![Dashboard View 1](dashboard/pics_1.png)  
+![Dashboard View 2](dashboard/pics_2.png)  
+![Dashboard View 3](dashboard/pics_3.png)  
+![Dashboard View 4](dashboard/pics_4.png)  
+![Dashboard View 5](dashboard/pics_5.png)
+![Dashboard View 6](dashboard/pics_6.png)
+![Dashboard View 7](dashboard/pics_7.png)
+![Dashboard View 8](dashboard/pics_8.png)
+![Dashboard View 9](dashboard/pics_9.png)
+![Dashboard View 10](dashboard/pics_10.png)
+![Dashboard View 11](dashboard/pics_11.png)
+![Dashboard View 12](dashboard/pics_12.png)
+![Dashboard View 13](dashboard/pics_13.png)
+
 
 ---
 
